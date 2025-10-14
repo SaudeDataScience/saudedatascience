@@ -7,7 +7,7 @@ Buscamos integrar ciências de dados e saúde
 ## 🤝 Equipe
 - [Djalma Adão Barbosa Junior](https://github.com/djalmabarbosa)
 - [Bernardo de Oliveira Vergara](https://github.com/BernardoVergara)
-- Camily Nunes dos Santos
+- [Camily Nunes dos Santos](https://github.com/CamilyNunes)
 - Pedro Lucas de Souza Silva
 - Ysadora Santos Fraga
 
